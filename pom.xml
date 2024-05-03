@@ -67,7 +67,7 @@
 	  <!-- version 28 -->
 	  <retrofit.version>2.3.0</retrofit.version>
 	  <!-- version 29 -->
-	  <protobuf-java.version>3.21.5</protobuf-java.version>
+	  <protobuf-java.version>3.25.3</protobuf-java.version>
 	  <!-- version 30-->
 	  <h2.version>2.0.204</h2.version>
   </properties>
