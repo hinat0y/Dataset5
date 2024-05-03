@@ -17,7 +17,7 @@
 	  <!-- version 3 -->
 	  <scala-library.version>2.13.0</scala-library.version>
 	  <!-- version 4 -->
-	  <kotlin-stdlib.version>0.6.22</kotlin-stdlib.version>
+	  <kotlin-stdlib.version>0.14.451</kotlin-stdlib.version>
 	  <!-- version 5 -->
 	  <jackson-databind.version>2.13.1</jackson-databind.version>
 	  <!-- version 6 -->
