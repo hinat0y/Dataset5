@@ -100,118 +100,111 @@
 	  </dependency>
 	  
 	  <!-- dependency 14 -->
-	   <dependency>
-		  <groupId>org.apache.axis</groupId>
-		  <artifactId>axis</artifactId>
-		  <version>${axis.version}</version>
-		</dependency>
-	  
-	  <!-- dependency 15 -->
 	  <dependency>
 		  <groupId>org.apache.httpcomponents</groupId>
     	  <artifactId>httpclient</artifactId>
     	  <version>${httpclient.version}</version>
 	  </dependency>
 	  
-	  <!-- dependency 16 -->
+	  <!-- dependency 15 -->
 	  <dependency>
 		  <groupId>com.squareup.okhttp3</groupId>
     	  <artifactId>okhttp</artifactId>
     	  <version>${okhttp.version}</version>
 	  </dependency>
 	  
-	  <!-- dependency 17 -->
+	  <!-- dependency 16 -->
 	  <dependency>
 		  <groupId>org.springframework</groupId>
     	  <artifactId>spring-web</artifactId>
     	  <version>${spring-web.version}</version>
 	  </dependency>
 	  
-	  <!-- dependency 18 -->
+	  <!-- dependency 17 -->
 	  <dependency>
 		  <groupId>org.springframework.boot</groupId>
     	  <artifactId>spring-boot-autoconfigure</artifactId>
     	  <version>${spring-boot-autoconfigure.version}</version>
 	  </dependency>
 	  
-	  <!-- dependency 19 -->
+	  <!-- dependency 18 -->
 	  <dependency>
 		  <groupId>mysql</groupId>
     	  <artifactId>mysql-connector-java</artifactId>
     	  <version>${mysql-connector-java.version}</version>
 	  </dependency>
 	  
-	  <!-- dependency 20 -->
+	  <!-- dependency 19 -->
 	  <dependency>
 		  <groupId>org.springframework</groupId>
     	  <artifactId>spring-beans</artifactId>
     	  <version>${spring-beans.version}</version>
 	  </dependency>
 	  
-	  <!-- dependency 21 -->
+	  <!-- dependency 20 -->
 	  <dependency>
 		  <groupId>commons-collections</groupId>
     	  <artifactId>commons-collections</artifactId>
     	  <version>${commons-collections.version}</version>
 	  </dependency>
 	  
-	  <!-- dependency 22 -->
+	  <!-- dependency 21 -->
 	  <dependency>
 		  <groupId>com.alibaba</groupId>
     	  <artifactId>fastjson</artifactId>
     	  <version>${fastjson.version}</version>
 	  </dependency>
 	  
-	  <!-- dependency 23 -->
+	  <!-- dependency 22 -->
 	  <dependency>
 		  <groupId>ch.qos.logback</groupId>
     	  <artifactId>logback-core</artifactId>
     	  <version>${logback-core.version}</version>
 	  </dependency>
 	  
-	  <!-- dependency 24 -->
+	  <!-- dependency 23 -->
 	  <dependency>
 		  <groupId>org.springframework</groupId>
     	  <artifactId>spring-webmvc</artifactId>
     	  <version>${spring-webmvc.version}</version>
 	  </dependency>
 	  
-	  <!-- dependency 25 -->
+	  <!-- dependency 24 -->
 	  <dependency>
 		  <groupId>org.json</groupId>
     	  <artifactId>json</artifactId>
     	  <version>${json.version}</version>
 	  </dependency>
 	  
-	  <!-- dependency 26 -->
+	  <!-- dependency 25 -->
 	  <dependency>
 		  <groupId>org.springframework</groupId>
     	  <artifactId>spring-core</artifactId>
     	  <version>${spring-core.version}</version>
 	  </dependency>
 	  
-	  <!-- dependency 27 -->
+	  <!-- dependency 26 -->
 	  <dependency>
 		  <groupId>commons-beanutils</groupId>
     	  <artifactId>commons-beanutils</artifactId>
     	  <version>${commons-beanutils.version}</version>
 	  </dependency>
 	  
-	  <!-- dependency 28 -->
+	  <!-- dependency 27 -->
 	  <dependency>
 		  <groupId>com.squareup.retrofit2</groupId>
     	  <artifactId>retrofit</artifactId>
     	  <version>${retrofit.version}</version>
 	  </dependency>
 	  
-	  <!-- dependency 29 -->
+	  <!-- dependency 28 -->
 	  <dependency>
 		  <groupId>com.google.protobuf</groupId>
     	  <artifactId>protobuf-java</artifactId>
     	  <version>${protobuf-java.version}</version>
 	  </dependency>
 	  
-	  <!-- dependency 30 -->
+	  <!-- dependency 29 -->
 	  <dependency>
 		  <groupId>com.h2database</groupId>
     	  <artifactId>h2</artifactId>
