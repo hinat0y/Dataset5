@@ -55,7 +55,7 @@
 	  <!-- version 22 -->
 	  <logback-core.version>1.3.5</logback-core.version>
 	  <!-- version 23 -->
-	  <spring-webmvc.version>6.0.10</spring-webmvc.version>
+	  <spring-webmvc.version>6.1.13</spring-webmvc.version>
 	  <!-- version 24 -->
 	  <json.version>20200518</json.version>
 	  <!-- version 25 -->
