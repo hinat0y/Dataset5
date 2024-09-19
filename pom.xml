@@ -33,7 +33,7 @@
 	  <!-- version 11 -->
 	  <spring-context.version>5.3.12</spring-context.version>
 	  <!-- version 12 -->
-	  <spring-boot-starter-web.version>2.6.0</spring-boot-starter-web.version>
+	  <spring-boot-starter-web.version>3.2.10</spring-boot-starter-web.version>
 	  <!-- version 13 -->
 	  <testng.version>7.4.0</testng.version>
 	  <!-- version 14 -->
@@ -45,7 +45,7 @@
 	  <!-- version 17 -->
 	  <spring-boot-autoconfigure.version>3.0.3</spring-boot-autoconfigure.version>
 	  <!-- version 18-->
-	  <mysql-connector-java.version>8.0.11</mysql-connector-java.version>
+	  <mysql-connector-java.version>8.0.31</mysql-connector-java.version>
 	  <!-- version 19 -->
 	  <spring-beans.version>5.3.4</spring-beans.version>
 	  <!-- version 20 -->
@@ -65,7 +65,7 @@
 	  <!-- version 27 -->
 	  <retrofit.version>2.3.0</retrofit.version>
 	  <!-- version 28 -->
-	  <protobuf-java.version>3.21.5</protobuf-java.version>
+	  <protobuf-java.version>3.25.5</protobuf-java.version>
 	  <!-- version 29 -->
 	  <h2.version>2.0.204</h2.version>
   </properties>
