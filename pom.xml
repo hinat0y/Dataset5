@@ -63,7 +63,7 @@
 	  <!-- version 26 -->
 	  <commons-beanutils.version>1.8.3</commons-beanutils.version>
 	  <!-- version 27 -->
-	  <retrofit.version>2.3.0</retrofit.version>
+	  <retrofit.version>3.0.0</retrofit.version>
 	  <!-- version 28 -->
 	  <protobuf-java.version>3.21.5</protobuf-java.version>
 	  <!-- version 29 -->
